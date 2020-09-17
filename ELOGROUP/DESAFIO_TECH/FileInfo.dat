@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="BuscaCeps.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/17/2020 09:57:33</Property>
+      <Property Name="RunDuration">00:00:29</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
