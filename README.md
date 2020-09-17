@@ -14,5 +14,5 @@ Etapas da automação:
 Estrutura das pastas do processo em My Tasks e My Docs: 
 - My Tasks/My Docs
    - ELOGROUP
-     -> DESAFIO_TECH
+     - DESAFIO_TECH
 
